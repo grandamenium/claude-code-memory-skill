@@ -1,3 +1,8 @@
+---
+name: memory-management
+description: Optimizes Claude Code's native auto-memory management. Keeps MEMORY.md as a concise index under 200 lines with topic-based file organization and grep-first recall. Use when setting up memory for a new project or improving existing memory structure.
+---
+
 # Memory Management Skill for Claude Code
 
 > Add this to your project's CLAUDE.md to optimize how Claude manages its native auto-memory.
